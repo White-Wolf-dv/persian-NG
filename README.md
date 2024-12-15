@@ -4,11 +4,11 @@
 
 
 
-  ## hamrah aval
+  # *****hamrah aval*****
 
      https://raw.githubusercontent.com/White-Wolf-dv/ng1133/refs/heads/main/MCI.txt
 
-## irancell
+# *****irancell*****
 
     https://raw.githubusercontent.com/White-Wolf-dv/ng1133/refs/heads/main/IRANCELL.txt
 
