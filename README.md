@@ -12,4 +12,6 @@
 
     https://raw.githubusercontent.com/White-Wolf-dv/ng1133/refs/heads/main/IRANCELL.txt
 
-![gif](https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/icegif-11-ezgif.com-optimize.gif)
+<p align="center">
+<img  src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/5.gif">
+</p>
