@@ -6,7 +6,7 @@
 
   # *****hamrah aval*****
 
-     https://raw.githubusercontent.com/White-Wolf-dv/ng1133/refs/heads/main/MCI.txt
+     https://raw.githubusercontent.com/White-Wolf-dv/persian-NG/refs/heads/main/MCI.txt
 
 # *****irancell*****
 
