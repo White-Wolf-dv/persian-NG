@@ -1,4 +1,4 @@
-# ng1133
+# persian-NG
 
 #### free config v2ryng for iran.
 
