@@ -3,7 +3,7 @@
 #### free config v2ryng for iran.
 
 
-<h5>update time : 1403/09/27 </h5>
+<h5>Update Time : 1403/09/27 </h5>
 
 
   # *****hamrah aval*****
