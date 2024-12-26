@@ -9,7 +9,7 @@
 
   # *****hamrah aval*****
 
-<h6>Number: 29 </h6>
+<h6>Number: 25 </h6>
 
      https://raw.githubusercontent.com/White-Wolf-dv/persian-NG/refs/heads/main/MCI.txt
 
