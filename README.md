@@ -7,13 +7,13 @@
 
 ##### Subscription
 
-  # *****hamrah aval*****
+  # *****Hamrah Aval*****
 
 <h6>Number: 24 </h6>
 
      https://raw.githubusercontent.com/White-Wolf-dv/persian-NG/refs/heads/main/MCI.txt
 
-# *****irancell*****
+# *****Irancell*****
 
 <h6>Number: 35</h6>
 
