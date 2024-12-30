@@ -3,19 +3,19 @@
 #### free config v2ryng for iran.
 
 
-<h5>Update Time : 1403/10/09 </h5>
+<h5>Update Time : 1403/10/10 </h5>
 
 ##### Subscription
 
   # *****Hamrah Aval*****
 
-<h6>Number: 10 </h6>
+<h6>Number: 26 </h6>
 
      https://raw.githubusercontent.com/White-Wolf-dv/persian-NG/refs/heads/main/MCI.txt
 
 # *****Irancell*****
 
-<h6>Number: 19 </h6>
+<h6>Number: 66 </h6>
 
     https://raw.githubusercontent.com/White-Wolf-dv/persian-NG/refs/heads/main/IRANCELL.txt
 
