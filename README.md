@@ -9,13 +9,13 @@
 
   # *****Hamrah Aval*****
 
-<h6>Number: 8 </h6>
+<h6>Number: 21 </h6>
 
      https://raw.githubusercontent.com/White-Wolf-dv/persian-NG/refs/heads/main/MCI.txt
 
 # *****Irancell*****
 
-<h6>Number: 45 </h6>
+<h6>Number: 17 </h6>
 
     https://raw.githubusercontent.com/White-Wolf-dv/persian-NG/refs/heads/main/IRANCELL.txt
 
