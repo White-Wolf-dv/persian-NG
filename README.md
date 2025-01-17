@@ -1,6 +1,6 @@
 # persian-NG
 
-#### free config v2ryng for iran.
+#### free config v2ryng for iran
 
 
 <h5>Update Time : 1403/10/28</h5>
