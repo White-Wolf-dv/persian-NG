@@ -15,7 +15,7 @@
 
 # *****Irancell*****
 
-<h6>Number: 53 </h6>
+<h6>Number: 69 </h6>
 
     https://raw.githubusercontent.com/White-Wolf-dv/persian-NG/refs/heads/main/IRANCELL.txt
 
