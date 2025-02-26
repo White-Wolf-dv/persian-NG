@@ -9,7 +9,7 @@
 
   # *****Hamrah Aval*****
 
-<h6>Number: 70 </h6>
+<h6>Number: 46 </h6>
 
      https://raw.githubusercontent.com/White-Wolf-dv/persian-NG/refs/heads/main/MCI.txt
 
