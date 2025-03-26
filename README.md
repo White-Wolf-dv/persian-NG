@@ -3,7 +3,7 @@
 #### free config v2ryng for iran
 
 
-<h5>Update Time : 1404/01/5</h5>
+<h5>Update Time : 1404/01/6</h5>
 
 ##### Subscription
 
