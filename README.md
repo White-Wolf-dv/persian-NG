@@ -8,7 +8,7 @@
   
 <h5>Update Time : 1404/01/29</h5>
 
-<h6>Number: -24</h6>
+<h6>Number: -22</h6>
 
      https://raw.githubusercontent.com/White-Wolf-dv/persian-NG/refs/heads/main/MCI.txt
 
