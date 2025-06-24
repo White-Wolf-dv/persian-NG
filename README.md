@@ -8,7 +8,7 @@
   
 <h5>Update Time : 1404/04/3</h5>
 
-<h6>Number: -I Couldn't Find The Config. </h6>
+<h6>Number: - I Couldn't Find The Config. </h6>
 
      https://raw.githubusercontent.com/White-Wolf-dv/persian-NG/refs/heads/main/MCI.txt
 
@@ -16,7 +16,7 @@
 
 <h5>Update Time : 1404/03/23</h5>
 
-<h6>Number: -out of reach </h6>
+<h6>Number: - I Couldn't Find The Config. </h6>
 
     https://raw.githubusercontent.com/White-Wolf-dv/persian-NG/refs/heads/main/IRANCELL.txt
 
